@@ -142,7 +142,7 @@ export default function Book({ setCurrentPage, book, setSearchResult }) {
             <nav className="w-100-pc orange darken-1">
               <div className="nav-wrapper">
                 <div className="col s12">
-                  <a href="/" className="breadcrumb white-text">
+                  <a onClick={setCurrentPage("HOME")} href="#!" className="breadcrumb white-text">
                     Início
                   </a>
                   <a onClick={backToTheBooks} href="#!" className="breadcrumb">
