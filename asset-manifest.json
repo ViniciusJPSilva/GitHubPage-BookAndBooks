@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GitHubPage-BookAndBooks/static/css/main.f1b26983.css",
-    "main.js": "/GitHubPage-BookAndBooks/static/js/main.d16462a5.js",
+    "main.js": "/GitHubPage-BookAndBooks/static/js/main.348cb1bd.js",
     "static/js/787.2a81d291.chunk.js": "/GitHubPage-BookAndBooks/static/js/787.2a81d291.chunk.js",
     "static/media/library.jpg": "/GitHubPage-BookAndBooks/static/media/library.1578a9b44bda21b01c78.jpg",
     "static/media/logo-section-library-img.jpg": "/GitHubPage-BookAndBooks/static/media/logo-section-library-img.303e71781e66678ef474.jpg",
@@ -11,11 +11,11 @@
     "static/media/verified.png": "/GitHubPage-BookAndBooks/static/media/verified.cb1c7133a9e61a83b5bd.png",
     "index.html": "/GitHubPage-BookAndBooks/index.html",
     "main.f1b26983.css.map": "/GitHubPage-BookAndBooks/static/css/main.f1b26983.css.map",
-    "main.d16462a5.js.map": "/GitHubPage-BookAndBooks/static/js/main.d16462a5.js.map",
+    "main.348cb1bd.js.map": "/GitHubPage-BookAndBooks/static/js/main.348cb1bd.js.map",
     "787.2a81d291.chunk.js.map": "/GitHubPage-BookAndBooks/static/js/787.2a81d291.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1b26983.css",
-    "static/js/main.d16462a5.js"
+    "static/js/main.348cb1bd.js"
   ]
 }
