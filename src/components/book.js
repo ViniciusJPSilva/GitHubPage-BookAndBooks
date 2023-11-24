@@ -9,7 +9,7 @@ export default function Book({ setCurrentPage, book, setSearchResult }) {
     "Content-Type": "application/json",
   };
 
-  const API_URL = "https://6938-186-236-239-36.ngrok-free.app";
+  const API_URL = "https://8b77-186-236-239-36.ngrok-free.app";
 
   let authorsList = "";
 
